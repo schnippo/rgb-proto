@@ -1,0 +1,31 @@
+RGB players
+
+
+different parts of the colorscheme, player can divide themself into the R G and B
+Mazes.
+
+Red  - Fire, can burn stuff, is destroyed on water contact, can fight better
+
+G - Plants, can talk to animals, grow plants faster with the help of water
+
+B - Water, can swim, should not burn, can make water to ice, walk on water
+
+
+FIRE + WATER = STONE
+Stone is rigid, like a shield.
+Stone can divide itself back to water and lava by entering fire or rain.
+
+
+Water and Plant form a rapidly growing biomass, that Lava can burn down to seperate them.
+
+Plant and Lava shouldn't touch, otherwise Plant will burn and has to be extinguished by Water - but not too much, otherwise they will create an unstoppable forest.
+Timing could be important.
+
+
+
+CORE MECHANIC:
+Three players, that form to one.
+The Player, has three attributes, R, G and B. These Attibutes can leave the others others behind..
+Three Status bars, each one for an element. Can charge it and deplete it by.
+
+IDEA FOR PROTOTYPE 1:Simple player sprite, can change colors and spawn flames, water and plants.
